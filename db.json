@@ -1,6 +1,7 @@
 {
   "creditInfo": [
     {
+      "id": "b5f355b3-c3fe-42c9-a759-b5dce7c2ea7c",
       "name": "Потребительский кредит на неотложные нужды",
       "imageLink": "https://i.ibb.co/6chwYN1K/credit.png",
       "bannerDescription": "С высокой вероятностью одобрения",
@@ -20,6 +21,7 @@
       "deliveryInCash": "Да"
     },
     {
+      "id": "399e8b73-d1cd-4601-bf31-f6ca853a9996",
       "name": "Ипотечный кредит на покупку жилья",
       "imageLink": "https://i.ibb.co/FbS8K7Gk/mortgage.png",
       "bannerDescription": "Снизьте ставку по ипотечному кредиту и мечтайте о новом доме с комфортом",
